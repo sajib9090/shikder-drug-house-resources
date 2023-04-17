@@ -1,0 +1,30 @@
+[
+    {
+        "id": "123456",
+        "name": "Product 1",
+        "title": "Health Carbon Filter Mask Color 1 Packs",
+        "price": 35.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0004_Layer-16-600x600.jpg"
+    },
+    {
+        "id": "789012",
+        "name": "Product 2",
+        "title": "Advanced Instant Hand Sanitizer with Aloe",
+        "price": 19.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0005_Layer-15-600x600.jpg"
+    },
+    {
+        "id": "345678",
+        "name": "Product 3",
+        "title": "Tea Tree Special Shampoo & Special Conditioner Duo 33.8 oz",
+        "price": 29.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0010_Layer-10-600x600.jpg"
+    },
+    {
+        "id": "987654",
+        "name": "Product 4",
+        "title": "Blue Shampoo – Peppermint Rosemary Hair Shampoo",
+        "price": 39.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0012_Layer-8-600x600.jpg"
+    }
+]
