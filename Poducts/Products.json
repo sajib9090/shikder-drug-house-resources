@@ -1,0 +1,72 @@
+[
+    {
+        "id": "123456",
+        "name": "Product 1",
+        "title": "Medical Infrared Thermometer Non-Contact Forehead Body Temperature Gun",
+        "price": 35.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0001_Layer-19-600x600.jpg"
+    },
+    {
+        "id": "789012",
+        "name": "Product 2",
+        "title": "Digital IR Thermometer Forehead Ear Non-contact Infrared Body Temperature",
+        "price": 19.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0014_Layer-6-600x600.jpg"
+    },
+    {
+        "id": "345678",
+        "name": "Product 3",
+        "title": "Premium KN95 Health Carbon Filter Mask Color 50 Pack",
+        "price": 29.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0002_Layer-18-600x600.jpg"
+    },
+    {
+        "id": "987654",
+        "name": "Product 4",
+        "title": "KN95 Health Carbon Filter Mask Color 50 Pack",
+        "price": 39.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0003_Layer-17-600x600.jpg"
+    },
+    {
+        "id": "246810",
+        "name": "Product 5",
+        "title": "Health Carbon Filter Mask Color 1 Packs",
+        "price": 13.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0004_Layer-16-600x600.jpg"
+    },
+    {
+        "id": "135790",
+        "name": "Product 6",
+        "title": "Advanced Instant Hand Sanitizer with Aloe",
+        "price": 19.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0005_Layer-15-600x600.jpg"
+    },
+    {
+        "id": "112233",
+        "name": "Product 7",
+        "title": "Liver Cleanse Detox Colon & Repair Formula +22 Herbs",
+        "price": 49.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0006_Layer-14-600x600.jpg"
+    },
+    {
+        "id": "987123",
+        "name": "Product 8",
+        "title": "Urinary Tract Bladder System Health Promotes Dietary Supplement Vegie Capsules",
+        "price": 39.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0007_Layer-13-600x600.jpg"
+    },
+    {
+        "id": "456789",
+        "name": "Product 9",
+        "title": "HoneySkin Tea Tree Foaming Face Wash with tea tree & Salicylic Acid",
+        "price": 29.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0008_Layer-12-600x600.jpg"
+    },
+    {
+        "id": "789456",
+        "name": "Product 10",
+        "title": "Clean Beauty Revitalizing Tea Tree Shampoo + Conditioner Tea Tree & Mint 32oz",
+        "price": 14.99,
+        "img": "https://fullkit.moxcreative.com/medicashop/wp-content/uploads/sites/17/2022/09/produk_0009_Layer-11-600x600.jpg"
+    }
+]
